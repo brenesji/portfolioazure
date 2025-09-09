@@ -389,16 +389,16 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "DevOps Engineer";
+        content: "DevOps Eng";
     }
     21%, 40%{
-        content: "Platform Engineer";
+        content: "Platform Eng";
     }
     41%, 60%{
         content: "SRE";
     }
     61%, 80%{
-        content: "Tech Support Eng";
+        content: "Tech Support";
     }
     81%, 100%{
         content: "Youtuber";
